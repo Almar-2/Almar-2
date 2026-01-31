@@ -89,7 +89,7 @@ and clean user interfaces with strong visual identity.
 ## 🧠 Code Style (Just for Fun 😄)
 
 ```dart
-class Omar extends Developer {
+class Ali extends Developer {
   final skills = {
     "Mobile": ["Flutter", "Dart"],
     "Web": ["HTML", "CSS", "JavaScript", "PHP"],
