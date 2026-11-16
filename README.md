@@ -31,10 +31,11 @@ Most of my work is in **n8n**: end-to-end workflows, AI agents, RAG pipelines, a
 
 ## Featured Work
 
-### Nice Abayas Store: AI-Powered E-Commerce Platform (Graduation Project, team of 2)
+### Nice Abayas Store: AI-Powered E-Commerce Platform (Graduation Project)
 My contributions to the platform:
 - **Review moderation model**: analyzes customer sentiment, classifies comments, and rejects inappropriate ones automatically
 - **Platform and permissions management** built as an integrated n8n system
+- **Store-analytics system**: scores product performance, clusters products with K-Means, and sends the admin an AI report on best and worst sellers, top categories, and best-selling sizes and colors
 - **Image-analysis agent** that predicts clothing sizes from customer photos
 - **RAG pipelines** connected directly to the live database
 - **Automated backup and restore**, with cloud storage on AWS
